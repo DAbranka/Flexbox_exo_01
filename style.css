@@ -140,7 +140,7 @@ nav .links a:hover {
 
 #bluebox .first {
   background-color: aquamarine;
-  background-image: url(/IMAGES/pexels-max-vakhtbovych-7511705.jpg);
+  background-image: url(./IMAGES/pexels-max-vakhtbovych-7511705.jpg);
   background-size: cover;
   background-position: center;
   width: 50%;
@@ -189,7 +189,7 @@ nav .links a:hover {
 /*---------------------------------------------Section-1-BOT-BLOC-third-bloc------------------------------------*/
 
 #bluebox .third {
-  background-image: url(/IMAGES/pexels-fox-969462.jpg);
+  background-image: url(./IMAGES/pexels-fox-969462.jpg);
   background-size: cover;
   background-position: center;
   background-color: rgb(255, 67, 208);
@@ -209,7 +209,7 @@ nav .links a:hover {
 /*---------------------------------------------Section-2-TOP-------------------------------------*/
 
 #green {
-  background-image: url(/IMAGES/pexels-pixabay-534172.jpg);
+  background-image: url(./IMAGES/pexels-pixabay-534172.jpg);
   background-size: cover;
   background-position: center;
   background-color: greenyellow;
